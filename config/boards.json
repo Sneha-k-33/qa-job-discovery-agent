@@ -1,0 +1,17 @@
+{
+  "greenhouse": [],
+  "lever": [],
+  "free_boards": [
+    {
+      "name": "Himalayas QA Search",
+      "provider": "himalayas",
+      "url": "https://himalayas.app/jobs/api/search?q=qa"
+    },
+    {
+      "name": "RemoteOK General Feed",
+      "provider": "remoteok",
+      "url": "https://remoteok.com/api"
+    }
+  ]
+}
+
